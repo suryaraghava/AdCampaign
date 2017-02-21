@@ -1,0 +1,12 @@
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\controller\PartnerController.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\dao\IPartnerDAO.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\model\PartnerModel.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\dao\PartnerDAOImpl.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\controller\CampaignController.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\config\SpringWebConfig.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\mapping\MyWebInitializer.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\config\SpringRootConfig.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\dao\ICampaignDAO.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\model\CampaignModel.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\dao\CampaignDAOImpl.java
+E:\Workspace\CustomerAdCampaign\src\main\java\com\adcampaign\config\db\H2DataSource.java
